@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add Material Tailwind Base Styles */
+/* @import "@material-tailwind/react/tailwind.css"; */
